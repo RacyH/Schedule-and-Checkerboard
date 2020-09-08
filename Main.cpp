@@ -33,7 +33,7 @@ const string two = "  *   *   *   *\n";
 int main()
 {
 	/* This is where I called my string variables to output the different words they were set as to print my schedule.
-	I also typed some things that I didn't use often, such as, in line 40, "1:30	".*/
+	I also typed some things that I didn't use often, such as, in line 42, "1:30	".*/
 
 	cout << m;
 	cout << x;
